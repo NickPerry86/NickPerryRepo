@@ -26,3 +26,19 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.PerryRepo.Tundra
+Version: 1.0
+Section: Themes
+Maintainer: NickPerry
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.PerryRepo.Tundra.deb
+Size: 13375560
+MD5sum: 1BDB663E32ADFF3D25507B056DC8E021
+Description: Turn Apps Into Icicles
+Name: Old Package
+Author: NickPerry
+Depiction: https://nickperry86.github.io/NickPerryRepo/depictions/Tundra
+
+
+
